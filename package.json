@@ -6,7 +6,7 @@
   "homepage": "https://ogmake.com",
   "author": { "name": "ogmake", "email": "support@ogmake.com" },
   "bugs": { "email": "support@ogmake.com" },
-  "repository": { "type": "git", "url": "git+https://github.com/IgorBaranov/ogmake-zapier.git" },
+  "repository": { "type": "git", "url": "git+https://github.com/ogmake/ogmake-zapier.git" },
   "main": "index.js",
   "scripts": {
     "test": "jest --runInBand",
